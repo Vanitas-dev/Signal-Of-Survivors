@@ -1,0 +1,4 @@
+a música da cutscene é a INTRO da música da gameplay
+
+o ideal é deixar ela tocando desde a cutscene, e quando ela acabar começar a da gameplay, pq elas se completam. quando a música da cutscene acabar, começa a da gameplay que é loopada, então ela pode ficar loopando, a da cutscene não
+
